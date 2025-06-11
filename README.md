@@ -5,5 +5,5 @@
 🛠️ Skills: Python, SQL, Scikit-learn, Pandas, Matplotlib  
 📄 Certifications: Google & AWS AI-ML Virtual Internships  
 🔍 Open to internship/full-time opportunities in AI, Data, and Software roles 
-trilookthribhuvan3809@gmail.com 
+    trilookthribhuvan3809@gmail.com 
 
